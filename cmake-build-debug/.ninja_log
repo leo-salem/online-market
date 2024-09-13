@@ -1,0 +1,12 @@
+# ninja log v5
+16	2510	7478695464524150	CMakeFiles/untitled.dir/main.cpp.obj	fafed9a1fd56c52
+2511	2656	7478695465974737	untitled.exe	7c53bb5081b017e6
+27	3345	7478777143710031	CMakeFiles/untitled.dir/item.cpp.obj	65e1bcb3e10630a1
+21	3347	7478777143720001	CMakeFiles/untitled.dir/account.cpp.obj	4b25c12d5a12efec
+15	3406	7478777144326238	CMakeFiles/untitled.dir/main.cpp.obj	fafed9a1fd56c52
+10	2346	7478779466736613	CMakeFiles/untitled.dir/employee.cpp.obj	84dc5834ab594aad
+17	2522	7478779468484128	CMakeFiles/untitled.dir/customer.cpp.obj	96ff7c758e4940c8
+12	2285	7478779882205437	CMakeFiles/untitled.dir/main.cpp.obj	fafed9a1fd56c52
+26	2437	7478780314760002	CMakeFiles/untitled.dir/main.cpp.obj	fafed9a1fd56c52
+32	2614	7478780316527342	CMakeFiles/untitled.dir/customer.cpp.obj	96ff7c758e4940c8
+2614	2882	7478780319166696	untitled.exe	7774c25c16bd76c

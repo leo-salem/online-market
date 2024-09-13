@@ -1,0 +1,6 @@
+tea 5 59
+oxi 2 100
+meat 7 137
+potatos 9 80
+butter 10 20
+grill 8 90
